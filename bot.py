@@ -11,6 +11,8 @@ def start(update, context):
         ])
     )
 
+#uwu
+
 if __name__ == '__main__':
 
     updater = Updater(token='1727276725:AAGPdcPX2uGcw8EKWC9PfEGhlb-o8Sq2zkY', use_context=True)
